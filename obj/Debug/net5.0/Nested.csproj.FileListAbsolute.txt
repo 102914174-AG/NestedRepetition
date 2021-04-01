@@ -1,0 +1,16 @@
+C:\Users\Addq2\Documents\Projects\Nested\bin\Debug\net5.0\Nested.exe
+C:\Users\Addq2\Documents\Projects\Nested\bin\Debug\net5.0\Nested.deps.json
+C:\Users\Addq2\Documents\Projects\Nested\bin\Debug\net5.0\Nested.runtimeconfig.json
+C:\Users\Addq2\Documents\Projects\Nested\bin\Debug\net5.0\Nested.runtimeconfig.dev.json
+C:\Users\Addq2\Documents\Projects\Nested\bin\Debug\net5.0\Nested.dll
+C:\Users\Addq2\Documents\Projects\Nested\bin\Debug\net5.0\ref\Nested.dll
+C:\Users\Addq2\Documents\Projects\Nested\bin\Debug\net5.0\Nested.pdb
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\Nested.csprojAssemblyReference.cache
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\Nested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\Nested.AssemblyInfoInputs.cache
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\Nested.AssemblyInfo.cs
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\Nested.csproj.CoreCompileInputs.cache
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\Nested.dll
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\ref\Nested.dll
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\Nested.pdb
+C:\Users\Addq2\Documents\Projects\Nested\obj\Debug\net5.0\Nested.genruntimeconfig.cache
