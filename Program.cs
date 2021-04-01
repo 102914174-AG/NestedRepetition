@@ -14,15 +14,18 @@ namespace Nested
             String input = Console.ReadLine();
 
             while (counter < 5) {
+
+                counter++;
                 
                 counter2 = counter;
                 while (counter2 < 10) {
                     Console.WriteLine(input);
-                    counter2 = counter2 + 1;
+                    
+                    counter2++;
 
                 } 
                 Console.WriteLine(" ");
-                counter = counter + 1; 
+
             }
             Console.WriteLine("GoodBye");
             
